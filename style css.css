@@ -1,0 +1,46 @@
+* { /*universal selectors*/
+    font-family: Castellar;
+}
+h1,h2 {/*group selectors*/
+
+}
+    body {
+    background-image: url("/Latihan/Images/bgonit.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(242, 141, 10);
+
+}
+p {
+    text-align: justify;
+    font-size: 15px;
+    color: rgb(22, 0, 128);
+    margin-right: 10px;
+    
+
+}
+h2 {
+    text-align: center;
+    background-color: rgb(110, 57, 18);
+
+}
+div {
+    padding: 10px;
+    background-color: rgba(300, 300, 300, 0.5);
+    margin: 100px;
+    
+ img{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+ }
+  
+.border{
+    border-style: dotted;
+    border-color: indianred;
+    border-radius: 5px;
+}
